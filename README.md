@@ -30,7 +30,7 @@ If you wanted to change the size of the maze drawn then use the following compil
 
 This changes the size of the maze to a 35x35 square grid. You may change the numbers following *-DWIDTH=* and *-DHEIGHT=* to change the size of the maze. 
 
-Note: There should be no spaces between *-DHEIGHT/-DWIDTH=* and the number chosen e.g. *-DWIDTH=25* is correct, but *-DWIDTH= 25* is incorrect.
+Note: There should be no spaces between *-DHEIGHT*/*-DWIDTH=* and the number chosen e.g. *-DWIDTH=25* is correct, but *-DWIDTH= 25* is incorrect.
 
 To run the code on Windows, the command is as follows:
 
